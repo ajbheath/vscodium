@@ -1,0 +1,20 @@
+{
+    "window.titleBarStyle": "native",
+    "editor.fontSize": 12,
+    "json.schemaDownload.trustedDomains": {
+        "https://schemastore.azurewebsites.net/": true,
+        "https://raw.githubusercontent.com/": true,
+        "https://www.schemastore.org/": true,
+        "https://json.schemastore.org/": true,
+        "https://json-schema.org/": true,
+        "https://biomejs.dev": true
+    },
+    "sonarlint.connectedMode.connections.sonarcloud": [
+        {
+            "organizationKey": "silicon-grid",
+            "connectionId": "silicon-grid",
+            "region": "EU"
+        }
+    ],
+    "editor.minimap.enabled": false
+}

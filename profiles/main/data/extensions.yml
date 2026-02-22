@@ -1,0 +1,54 @@
+disabled: []
+enabled:
+  - id: 13xforever.language-x86-64-assembly
+    uuid: 7c8fcf53-a602-48d2-afdf-9c1318472604
+  - id: asciidoctor.asciidoctor-vscode
+    uuid: c1309cc2-f420-46a3-b2be-ca04f4d9e51b
+  - id: bbenoist.Doxygen
+    uuid: aab644b7-f446-4774-87fc-2cce8f0d5a4f
+  - id: biomejs.biome
+    uuid: 2c992d35-3965-4369-856e-fdfbb0af2ce2
+  - id: cheshirekow.cmake-format
+    uuid: 5338f4d8-048c-433f-bce4-44aa922cedc2
+  - id: cschlosser.doxdocgen
+    uuid: da7e26d5-d57c-4742-ab47-d77fb189e195
+  - id: franneck94.c-cpp-runner
+    uuid: 0f4eac03-b4ec-4a55-bce1-deb41fde32ab
+  - id: franneck94.vscode-c-cpp-config
+    uuid: 903d2817-890f-4412-ac1d-a23ea84d76e1
+  - id: franneck94.vscode-c-cpp-dev-extension-pack
+    uuid: a5d8fcbb-073c-49c3-8272-30f78502b5b8
+  - id: jayblack388.md-lint
+    uuid: 1c8cb853-0818-4c40-a6fa-7c3a270dd40d
+  - id: jeff-hykin.better-cpp-syntax
+    uuid: 73767f91-7dcb-43cb-90b3-596d073eea1f
+  - id: KylinIdeTeam.cmake-intellisence
+    uuid: b02fa3e5-06d4-4aad-8dbb-fe54a1cc58f9
+  - id: KylinIdeTeam.cppdebug
+    uuid: 990e1ff7-cc55-4a01-ae62-39bb4ca3136e
+  - id: KylinIdeTeam.kylin-cmake-tools
+    uuid: b83703ef-ad83-4e08-8c01-463e1ea145ff
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
+  - id: SonarSource.sonarlint-vscode
+    uuid: a7fa941e-bcda-486f-8141-8483a6286177
+  - id: tuttieee.emacs-mcx
+    uuid: 89d44179-27af-4106-a3c1-46a537ef1d0a
+  - id: twxs.cmake
+    uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+  - id: vitest.explorer
+    uuid: ab3534a7-eaae-4f75-9735-62bfd758b220
+  - id: vscode-icons-team.vscode-icons
+    uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: vunguyentuan.vscode-css-variables
+    uuid: 3f96fda8-094b-4817-97fb-a7eab7a8f5e0
+  - id: vunguyentuan.vscode-postcss
+    uuid: 361b3dd2-9a8c-45d2-9039-1789dec4362e
+  - id: yzane.markdown-pdf
+    uuid: f015bc3c-a098-4245-8765-615e002e09ab
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
